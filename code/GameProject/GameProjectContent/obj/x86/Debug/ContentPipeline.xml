@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>openingscreen.png</Source>
+      <Name>openingscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\openingscreen.xnb</Output>
+      <Time>2013-09-30T12:11:18.4729284-04:00</Time>
+    </Item>
+    <Item>
+      <Source>board.png</Source>
+      <Name>board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\board.xnb</Output>
+      <Time>2013-10-07T21:43:47.6514573-04:00</Time>
+    </Item>
+    <Item>
+      <Source>eight.png</Source>
+      <Name>eight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\eight.xnb</Output>
+      <Time>2013-09-30T12:11:18.3689224-04:00</Time>
+    </Item>
+    <Item>
+      <Source>five.png</Source>
+      <Name>five</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\five.xnb</Output>
+      <Time>2013-09-30T12:11:18.3899236-04:00</Time>
+    </Item>
+    <Item>
+      <Source>four.png</Source>
+      <Name>four</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\four.xnb</Output>
+      <Time>2013-09-30T12:11:18.4109248-04:00</Time>
+    </Item>
+    <Item>
+      <Source>nine.png</Source>
+      <Name>nine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\nine.xnb</Output>
+      <Time>2013-09-30T12:11:18.430926-04:00</Time>
+    </Item>
+    <Item>
+      <Source>one.png</Source>
+      <Name>one</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\one.xnb</Output>
+      <Time>2013-09-30T12:11:18.4519272-04:00</Time>
+    </Item>
+    <Item>
+      <Source>seven.png</Source>
+      <Name>seven</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\seven.xnb</Output>
+      <Time>2013-09-30T12:11:18.4939296-04:00</Time>
+    </Item>
+    <Item>
+      <Source>six.png</Source>
+      <Name>six</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\six.xnb</Output>
+      <Time>2013-09-30T12:11:18.5139307-04:00</Time>
+    </Item>
+    <Item>
+      <Source>three.png</Source>
+      <Name>three</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\three.xnb</Output>
+      <Time>2013-09-30T12:11:18.5349319-04:00</Time>
+    </Item>
+    <Item>
+      <Source>two.png</Source>
+      <Name>two</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\two.xnb</Output>
+      <Time>2013-09-30T12:11:18.5809346-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingeight.png</Source>
+      <Name>blinkingeight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingeight.xnb</Output>
+      <Time>2013-09-30T12:11:18.1619106-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingfive.png</Source>
+      <Name>blinkingfive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingfive.xnb</Output>
+      <Time>2013-09-30T12:11:18.1819117-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingfour.png</Source>
+      <Name>blinkingfour</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingfour.xnb</Output>
+      <Time>2013-09-30T12:11:18.2029129-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingnine.png</Source>
+      <Name>blinkingnine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingnine.xnb</Output>
+      <Time>2013-09-30T12:11:18.2229141-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingone.png</Source>
+      <Name>blinkingone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingone.xnb</Output>
+      <Time>2013-09-30T12:11:18.2429152-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingseven.png</Source>
+      <Name>blinkingseven</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingseven.xnb</Output>
+      <Time>2013-09-30T12:11:18.2639164-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingsix.png</Source>
+      <Name>blinkingsix</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingsix.xnb</Output>
+      <Time>2013-09-30T12:11:18.2849176-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingthree.png</Source>
+      <Name>blinkingthree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingthree.xnb</Output>
+      <Time>2013-09-30T12:11:18.3069189-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingtwo.png</Source>
+      <Name>blinkingtwo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingtwo.xnb</Output>
+      <Time>2013-09-30T12:11:18.3279201-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProjectContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sittikorn\Desktop\DTA\Incremental Project Game Dev\code\GameProject\GameProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-15T19:17:47.5083272-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

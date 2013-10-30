@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E6074EDA-A304-44D3-89E6-335DDF19504A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Courses\MOOC\GDD 1200\Required Project\start\code\GameProject\GameProjectContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Courses\MOOC\GDD 1200\Required Project\start\code\GameProject\GameProject\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Courses\MOOC\GDD 1200\Required Project\start\code\GameProject\GameProject\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Courses\MOOC\GDD 1200\Required Project\start\code\GameProject\GameProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-15T15:22:17.2983302-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
